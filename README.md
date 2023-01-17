@@ -1,1 +1,1 @@
-# ahorcado_terminado
+# ahorcado_javascript
